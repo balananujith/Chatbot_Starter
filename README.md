@@ -38,25 +38,26 @@ The Flask Chatbot project demonstrates how to integrate a pre-trained language m
 
 ## File Structure
 
-**app.py**: The main application file containing the Flask routes and chatbot logic.
-**templates/chat.html**: The HTML template for the chat interface.
-**requirements.txt**: A file listing all the required Python packages.
+1. **app.py**: The main application file containing the Flask routes and chatbot logic.
+2. **templates/chat.html**: The HTML template for the chat interface.
+3. **requirements.txt**: A file listing all the required Python packages.
 
 ## How It Works
 
 **Flask Routes**
-**/ (index)**: Serves the main chat interface.
-**/get (chat)**: Handles user input and returns chatbot responses.
+1. **/ (index)**: Serves the main chat interface.
+2. **/get (chat)**: Handles user input and returns chatbot responses.
 **Chatbot Logic**
-**User Input:** The user sends a message through the chat interface.
-**Processing Input:** The input is received by the Flask backend and processed.
-**Generating Response:** The processed input is passed to the DialoGPT model, which generates a response.
-**Returning Response:** The response is sent back to the user's browser and displayed.
+1. **User Input:** The user sends a message through the chat interface.
+2. **Processing Input:** The input is received by the Flask backend and processed.
+3. **Generating Response:** The processed input is passed to the DialoGPT model, which generates a response.
+4. **Returning Response:** The response is sent back to the user's browser and displayed.
 
 ## Contributing
 Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
 
 
 ## Acknowledgments
-**Hugging Face** for providing the DialoGPT model.
-**Flask** for the web framework.
+1. Hugging Face ([@huggingface](https://github.com/huggingface)) for providing the DialoGPT model.
+2. BinaryHood [Youtube](https://www.youtube.com/@binaryhood) for providing the idea of how to create chatbots and how to link the ML Models to it.
+   
