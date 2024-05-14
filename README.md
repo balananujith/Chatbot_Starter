@@ -58,5 +58,5 @@ Contributions are welcome! If you have any ideas, suggestions, or bug reports, p
 
 
 ## Acknowledgments
-@huggingface for providing the DialoGPT model.
-@Flask for the web framework.
+**Hugging Face** for providing the DialoGPT model.
+**Flask** for the web framework.
