@@ -59,5 +59,5 @@ Contributions are welcome! If you have any ideas, suggestions, or bug reports, p
 
 ## Acknowledgments
 1. Hugging Face ([@huggingface](https://github.com/huggingface)) for providing the DialoGPT model.
-2. BinaryHood on [Youtube](https://www.youtube.com/@binaryhood) for providing the idea of how to create chatbots and how to link the ML Models to it.
+2. BinaryHood on ([Youtube](https://www.youtube.com/@binaryhood)) for providing the idea of how to create chatbots and how to link the ML Models to it.
    
